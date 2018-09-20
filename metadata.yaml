@@ -1,5 +1,8 @@
 _repo: What-Every-Girl-Should-Know_52888
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52888-h/images/cover.jpg
 creator:
   author:
     agent_name: Sanger, Margaret
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/693
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Sanger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52888#What-Every-Girl-Should-Know
 gutenberg_issued: '2016-08-24'
 gutenberg_type: Text
 identifiers:
